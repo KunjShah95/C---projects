@@ -1,0 +1,11 @@
+Name: ABC
+Mobile Number: 1234567890
+Email ID: abc@abc
+Address: ABC Street
+City: ABC City
+State: ABC State
+Pincode: 123456
+Course: BSc
+GPA: 8.5
+Date of Birth (YYYY-MM-DD): 1995-10-25
+Date of Admission (YYYY-MM-DD): 2023-08-15

@@ -1,0 +1,7 @@
+{
+    "editor.acceptSuggestionOnEnter": "on",
+    "C_Cpp.default.enableConfigurationSquiggles": true,
+    "files.associations": {
+        "unordered_map": "cpp"
+    }
+}
