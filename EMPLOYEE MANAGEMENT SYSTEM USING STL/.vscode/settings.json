@@ -3,9 +3,6 @@
   "files.associations": {
     "*.ndjson": "jsonl",
     "*.dbclient-js": "javascript",
-    "vector": "cpp",
-    "map": "cpp",
-    "unordered_set": "cpp",
     "xstring": "cpp"
   }
 }
