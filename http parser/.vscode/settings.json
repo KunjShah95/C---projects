@@ -1,0 +1,10 @@
+{
+  "editor.acceptSuggestionOnEnter": "on",
+  "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
+    "xstring": "cpp",
+    "map": "cpp"
+  }
+}
